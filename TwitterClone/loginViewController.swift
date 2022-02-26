@@ -20,7 +20,10 @@ class loginViewController: UIViewController {
         
     }
     
-
+    @IBAction func onLoginButton(_ sender: Any) {
+        //twitterAPICaller.client?.login()
+    }
+    
     /*
     // MARK: - Navigation
 
